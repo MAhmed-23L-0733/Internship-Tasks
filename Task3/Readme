@@ -1,0 +1,4 @@
+Objective: Performing an exploratory data analysis and using model to predict the data.
+Dataset used: Heart disease.
+Models applied: Logistic regression.
+Results: After exploring the data, the trends were highlighted and the model successfully predicted the data with upto 80 percent accuracy.
