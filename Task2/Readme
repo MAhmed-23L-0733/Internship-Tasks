@@ -1,0 +1,4 @@
+Objective: Implementing a Linear Regression Model.
+Dataset used: Tesla Stock from yfinance library.
+Models applied: Linear Regression Model.
+Results: The model accurately predicted the data with upto 99 percent accuracy.
